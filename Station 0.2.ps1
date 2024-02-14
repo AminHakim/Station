@@ -10,6 +10,7 @@ $urls = @(
     "https://downloads.npass.app/windows/NordPassSetup.exe",
     "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/Obsidian.1.5.3.exe",
     "https://api-se.getstack.app/download/win32/beta?arch=x64&next=true"
+    "https://telegram.org/dl/desktop/win64"
 )
 
 # Loop through each URL and open it
