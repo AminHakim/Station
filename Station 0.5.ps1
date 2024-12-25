@@ -8,7 +8,7 @@ Set-ItemProperty -Path HKCU:\Software\Microsoft\Windows\CurrentVersion\Themes\Pe
 $urls = @(
     "https://www.opera.com/computer/thanks?ni=eapgx&os=windows",
     "https://downloads.npass.app/windows/NordPassSetup.exe",
-    "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.5.3/Obsidian.1.5.3.exe",
+    "https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.7/Obsidian-1.7.7.exe",
     "https://api-se.getstack.app/download/win32/beta?arch=x64&next=true",
     "https://telegram.org/dl/desktop/win64"
 )
